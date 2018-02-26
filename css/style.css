@@ -1,0 +1,18 @@
+@import url('http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+
+.renderbody{
+	min-height:500px;
+	margin-top: -10px;
+	background-color: #fff;
+	
+}
+
+.bgimg {
+	height: 300px;
+	width: 100%;
+    background: url('../pictures/banner.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-position: top 50px;
+}
