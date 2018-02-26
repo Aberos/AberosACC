@@ -1,9 +1,9 @@
 <?php
 
-	$host_database = 'localhost';
-	$name_database = 'rubyserver';
-	$user_database = 'root';
-	$pass_database = '99273286';
+	$host_database = '';
+	$name_database = '';
+	$user_database = '';
+	$pass_database = '';
 	
 	$mundos = array(
 		0 => "Bronze" 
